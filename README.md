@@ -54,8 +54,6 @@ Output: Sorted sequence </br>
 - Complexity O(N&sdot;log(N)) </br>
 
 
-[Table Caption]
-
 ## Problem 4: [Number of Inversions] </br>
 Given unsorted list of integers count the number of invertion needed to sort list.</br>
 An inversion of a sequence a<sub>0</sub>, a<sub>1</sub>, ..., a<sub>n-1</sub> is a pair of indices 0 &le; i &lt; j &lt; n such that a<sub>i</sub> &gt; a<sub>j</sub>.</br>
